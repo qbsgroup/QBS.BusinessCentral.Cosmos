@@ -1,0 +1,3 @@
+https://api.businesscentral.dynamics.com/v2.0/f54b8e5d-8461-4789-a712-bbd27f2be684/test/api/Cosmos/Cosmos/v1.0/companies
+
+{https://api.businesscentral.dynamics.com/v2.0/e3482be9-1aa8-4fec-b96f-05835023e66f/nav-skills/api/Cosmos/Cosmos/v1.0/companies(1a2e0c9a-6950-eb11-bb50-000d3aaafb42)/CosmosRecords}

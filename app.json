@@ -1,0 +1,26 @@
+{
+  "id": "6ef230cb-0132-442a-9374-796952cbab71",
+  "name": "Integration between Business Central and Cosmos",
+  "publisher": "Mark Brummel",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "Logo/logo_240x240px.png",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "18.0.0.0",
+  "idRanges": [
+    {
+      "from": 89000,
+      "to": 89099
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://www.qbsgroup.com",
+  "showMyCode": true,
+  "runtime": "7.0"
+}

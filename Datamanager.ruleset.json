@@ -1,0 +1,40 @@
+{
+    "name": "Datamanager Rules",
+    "rules": [
+        {
+            "id": "PTE0004",
+            "action": "Hidden",
+            "justification": "Permission sets. Everyone using this has Super rights."
+        },
+        {
+            "id": "AA0215",
+            "action": "Hidden",
+            "justification": "Microsoft Naming standard ignored"
+        },
+        {
+            "id": "AA0072",
+            "action": "Hidden",
+            "justification": "Variable Naming"
+        },
+        {
+            "id": "AA0218",
+            "action": "Hidden",
+            "justification": "Tooltips"
+        },
+        {
+            "id": "AA0073",
+            "action": "Hidden",
+            "justification": "Prefixing with Temp"
+        },
+        {
+            "id": "AA0210",
+            "action": "Hidden",
+            "justification": "Missing Keys"
+        },
+        {
+            "id": "AA0217",
+            "action": "Hidden",
+            "justification": "Hardcoded strings"
+        }
+    ]
+}
