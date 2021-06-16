@@ -39,10 +39,10 @@ Since data is stored in json format you can store parent and child information i
 # Creating a new Cosmos Instance & Database
 One of the reasons Cosmos can be interesting for the SMB market and Business Central users is that it provides a free entry level of 25GB and 1000ru. This should suffice for an average 
 database combining data from Business Central and other entities.
- 
+![CreateNewDb](/Logo/CreateNewCosmosDb.png)
 ## API
 You can choose any API you are familiar with, but the examples on our GitHub are based on Core SQL. This syntax is relatively close to Transact SQL that most Business Central power users are familiar with.
- 
+![SelectAPI](/Logo/Select API.png)
 ## Serverless or Provisioned
 
 Probably serverless since we are having very incremental workloads. If we don’t use Cosmos, we only pay for storage.
@@ -51,7 +51,4 @@ The account name is a generic name, used for all databases, just like an Azure S
 Other options may be left default or may vary based on your organizational backup and security policies and are not part of the scope of this document.
 ## Creating a Database and a Container
 In our code examples the Database and Container are created by the Azure Function in C# if you try to write to a Database and/or Container that does not exist. The AL code does not contain examples of creating a Database or Container automatically. If you go for AL only you need to either write this code or create them manually via the Azure Portal.
- 
-
-
-
+![NewDbAndContainer](/Logo/NewDatabaseAndContainer.png) 
